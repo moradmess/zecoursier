@@ -10,11 +10,17 @@
   <link rel="stylesheet" href="{{ secure_asset('assets/css/font-awesome.css') }}">
   <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
   <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
+ <!-- <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-social.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.css') }}">
+  <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
+  <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>-->
   <title>ZeCoursier</title>
   <style type="text/css">
     footer {
       border: 1px solid rgb(232,232,232);
-      background-color: rgb(248,248,248);
+      background-color: rgb(81,81,81);
       border-radius: 5px;
       padding-top: 10px;
       padding-left: 5px;
@@ -66,7 +72,7 @@
 
 <hr />
 <footer>
-  <div class="row" style="text-align: center;font-size: 1.2em">
+  <div class="row" style="text-align: center;color: white;font-size: 1.2em">
     <p class="col-sm-4">ICE: 002335495000074</p>
     <p class="col-sm-4">Tous les droits réservés</p>
     <p class="col-sm-4">ZeCoursier</p>
