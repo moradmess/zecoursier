@@ -60,7 +60,7 @@ document.getElementById('accueil').className = "active";
       <img class="img-circle" width="100" src="{{ secure_asset('img/ahmed.jpg') }}" alt="ahmed">
       <div class="caption" style="text-align: center;">
         <h3>MORAD</h3>
-        <p style="font-size: 1.2em;">Service au niveau requis, bonne chance</p>
+        <p style="font-size: 1.2em;">Service au niveau requis, bonne chance et bonne continuation</p>
         <p><a href="https://www.facebook.com/pg/zecoursier.officiel/reviews/?ref=page_internal" onclick="window.open(this.href); return false;" class="btn btn-social-icon btn-facebook" role="button"><span class="fa fa-facebook"></span></a></p>
       </div>
     </div>
@@ -68,7 +68,7 @@ document.getElementById('accueil').className = "active";
 
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img class="img-circle" width="100" src="{{ secure_asset('img/khadija.jpg') }}" alt="morad">
+      <img class="img-circle" width="100" src="{{ secure_asset('img/khadija.jpg') }}" alt="khadija">
       <div class="caption" style="text-align: center;">
         <h3>KHADIJA</h3>
         <p style="font-size: 1.2em;">Vous avez un bon service dont tout le monde a besoin</p>
@@ -79,7 +79,7 @@ document.getElementById('accueil').className = "active";
 
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img class="img-circle" width="100" src="{{ secure_asset('img/said.jpg') }}" alt="morad">
+      <img class="img-circle" width="100" src="{{ secure_asset('img/said.jpg') }}" alt="said">
       <div class="caption" style="text-align: center;">
         <h3>SAID</h3>
         <p style="font-size: 1.2em;">Bonne chance, notre merveilleuse équipe de ZeCoursier</p>
@@ -111,7 +111,7 @@ document.getElementById('accueil').className = "active";
   </div>
   <div class="media-body">
     <h4 class="media-heading">Hmizat Maroc</h4>
-    https://hmizatmaroc.storeino.co/
+    <a href="https://hmizatmaroc.storeino.co/" onclick="window.open(this.href); return false;">https://hmizatmaroc.storeino.co/</a>
   </div>
 </div>
 <div class="media">
@@ -122,7 +122,7 @@ document.getElementById('accueil').className = "active";
   </div>
   <div class="media-body">
     <h4 class="media-heading">Hasni Promotion</h4>
-    <a href="https://www.facebook.com/HasniPromotion">https://www.facebook.com/HasniPromotion</a>
+    <a href="https://www.facebook.com/HasniPromotion" onclick="window.open(this.href); return false;">https://www.facebook.com/HasniPromotion</a>
   </div>
 </div>
     </section>
