@@ -24,7 +24,7 @@
       float: right;
     }
     body {
-      font-family:Palatino Linotype;
+      font-family:Calibri;
     }
     nav {
       font-size: 1.2em;
@@ -60,12 +60,7 @@
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
-<div class="row">
-    <img class="img-rounded center-block" style="width: 97%;" height="300" src="{{ asset('img/wajiha.jpg') }}" />
-  </div>
 </header>
-<hr />
-  
 
 @yield('content')
 
