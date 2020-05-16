@@ -19,11 +19,11 @@
   <style type="text/css">
   @font-face{
     font-family:'glyphicons-halflings-regular';
-    src:url({{public_path() . '/css/fonts/glyphicons-halflings-regular.ttf'}});
+    src:url({{public_path() . '/assets/fonts/glyphicons-halflings-regular.ttf'}});
     }
   @font-face{ 
     font-family:'FontAwesome';
-    src:url({{public_path() . '/css/fonts/FontAwesome.otf'}});
+    src:url({{public_path() . '/assets/fonts/FontAwesome.otf'}});
     }
     footer {
       border: 1px solid rgb(232,232,232);
