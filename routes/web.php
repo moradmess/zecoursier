@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/apropos', function () {
     return view('a_propos');
 });
+Route::get('/service', function () {
+    return view('service');
+});
