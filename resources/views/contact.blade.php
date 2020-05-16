@@ -17,10 +17,10 @@ document.getElementById('contact').className = "active";
                 </div>
                 <div id="item1" class="panel-collapse collapse">
                 <div class="panel-body"> 
-                	<p><span class="glyphicon glyphicon-home"></span> 3 rue Oslo boulevard Bayrouth Fes Maroc</p>
+                	<p><span class="glyphicon glyphicon-home"></span> 3 rue Oslo boulevard Bayrouth Zohor 1 Fes Maroc</p>
                 	<p><span class="glyphicon glyphicon-earphone"></span> +212622-656117</p>
                 	<p><span class="fa fa-whatsapp"></span> +212688-163484</p>
-                	<p><span class="glyphicon glyphicon-envelope"></span> zakaria.elmesoudy@gmail.com</p>
+                	<p><span class="glyphicon glyphicon-envelope"></span> zecoursier@gmail.com</p>
                 </div>
             	</div>
             	</div>
@@ -29,11 +29,11 @@ document.getElementById('contact').className = "active";
                 <div class="panel panel-default">
                 <div class="panel-heading">
                     <h3 class="panel-title"><span class="glyphicon glyphicon-circle-arrow-down"></span>
-                        <a style="text-decoration: none;font-weight: bold;" id="link" class="accordion-toggle" href="#item2" data-toggle="collapse"> Nos réseau sociaux </a></h3>
+                        <a style="text-decoration: none;font-weight: bold;" id="link" class="accordion-toggle" href="#item2" data-toggle="collapse"> Nos Réseaux Sociaux </a></h3>
                 </div>
                 <div id="item2" class="panel-collapse collapse">
                 <div class="panel-body"> 
-                	<a href="https://www.facebook.com/pg/zecoursier.officiel" onclick="window.open(this.href); return false;" class="btn btn-social-icon btn-facebook center-block" role="button"><span class="fa fa-facebook"></span></a><br />
+                	<a href="https://www.facebook.com/zecoursier.officiel/" onclick="window.open(this.href); return false;" class="btn btn-social-icon btn-facebook center-block" role="button"><span class="fa fa-facebook"></span></a><br />
                 	<a href="https://www.youtube.com/channel/UCiqsOSIEBjQv9kSAI_NwN8Q" class="btn btn-social-icon btn-pinterest center-block" onclick="window.open(this.href); return false;" role="button"><span class="fa fa-youtube"></span></a>
                 </div>
             	</div>

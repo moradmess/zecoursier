@@ -8,7 +8,7 @@ document.getElementById('service').className = "active";
 	<!--<img class="img-rounded img-responsive center-block" width="100%" src="{{ asset('img/nos_service.jpg') }}" alt="A_propos">-->
 	<hr />
 	<div class="row" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 20px">
-		<p class="col-sm-6 col-sm-offset-3">Nos services sont caractérisés par la sécurité avec une culture de l'innovation visée sur la rapidité et l'excellence.<br />En plus vous garantissez une livraison de toute qualité, et donc vous n'enquête pas cher e-commercial d'essayer de rapprocher notre service <strong>ZeCoursier</strong>.</p>
+		<p class="col-sm-6 col-sm-offset-3">Nos services sont caractérisés par la sécurité avec une culture de l'innovation visée sur la rapidité et l'excellence.<br />En plus vous garantissez une livraison de toute qualité, et donc vous n'enquête pas cher e-commercial d'essayer de rapprocher notre service <strong>ZeCOURSIER</strong>.</p>
 	</div>
 <hr />
 <div class="row">
@@ -18,7 +18,7 @@ document.getElementById('service').className = "active";
   		<div class="panel-body">
   			<img style="width: 50%" src="{{ secure_asset('img/ramassages.jpg') }}">
   			<!--<img style="width: 50%" src="{{ asset('img/ramassages.jpg') }}">-->
-    	<p style="font-size: 1.2em;">ZeCoursier assure le service ramassage, nous pouvons déplacer chez vous dans n'importe quelle place à Fes et les environs afin de ramasser vos colis</p>
+    	<p style="font-size: 1.2em;">Nous pouvons déplacer chez vous dans n'importe quelle place à Fes et les environs afin de ramasser vos colis</p>
   		</div>
 		</div>
 	</aside>
@@ -28,7 +28,7 @@ document.getElementById('service').className = "active";
   		<div class="panel-body">
   		<img style="width: 50%" src="{{ secure_asset('img/livraisons.jpg') }}">
   		<!--<img style="width: 50%" src="{{ asset('img/livraisons.jpg') }}">-->
-    	<p style="font-size: 1.2em;">ZeCoursier est à la disposition de tous les e-commerciaux, 24h/24 et 7j/7 pour livrer tous ce que vous voulez dans Fès et les environs</p>
+    	<p style="font-size: 1.2em;">ZeCOURSIER est à la disposition de tous les e-commerciaux, 24h/24 et 7j/7 pour livrer tous ce que vous voulez dans Fès et les environs</p>
   		</div>
 		</div>
 	</aside>
@@ -38,7 +38,7 @@ document.getElementById('service').className = "active";
   		<div class="panel-body">
   		<img style="width: 50%" src="{{ secure_asset('img/suivi.jpg') }}">
   		<!--<img style="width: 50%" src="{{ asset('img/suivi.jpg') }}">-->
-    	<p style="font-size: 1.2em;">Au cas où un client ne répondent pas, nous l'envoyons un SMS dans lequel nous informons que son colis est présent dans le délai de 72 heures</p>
+    	<p style="font-size: 1.2em;">Au cas où un client ne répondent pas, nous l'envoyons un SMS dans lequel nous informons que son colis est présent dans le délai de 72 h</p>
   		</div>
 		</div>
 	</aside>
