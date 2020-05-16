@@ -4,7 +4,7 @@
 <script type="text/javascript"> 
 document.getElementById('service').className = "active";
 </script>
-	<img class="img-rounded img-responsive center-block" width="100%" src="{{ secure_asset('img/nos_service.jpg') }}" alt="A_propos">
+	<img class="img-rounded img-responsive" width="100%" src="{{ secure_asset('img/nos_service.jpg') }}" alt="Service">
 	<!--<img class="img-rounded img-responsive center-block" width="100%" src="{{ asset('img/nos_service.jpg') }}" alt="A_propos">-->
 	<hr />
 	<div class="row" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 20px">
