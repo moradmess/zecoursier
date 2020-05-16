@@ -4,18 +4,18 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!--<link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap-social.css') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/font-awesome.css') }}">
   <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
-  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>-->
- <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
+  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
+ <!--<link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-social.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.css') }}">
   <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
-  <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+  <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>-->
   <title>ZeCoursier</title>
   <style type="text/css">
     footer {
