@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap-social.css') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/font-awesome.css') }}">
   <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
   <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
