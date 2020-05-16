@@ -5,13 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
-  <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">
-  <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap-social.css') }}">
-  <link rel="stylesheet" href="{{ secure_asset('assets/css/font-awesome.css') }}">
+  <!--<link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap-social.css') }}">-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
-  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
+  <!--<script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
+  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>-->
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+  <script href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
   <!--<link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.css') }}">
@@ -19,14 +22,11 @@
   <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>-->
   <title>ZeCoursier</title>
   <style type="text/css">
-  @font-face{
-    font-family:'glyphicons-halflings-regular';
-    src:url({{public_path() . '/assets/fonts/glyphicons-halflings-regular.ttf'}});
-    }
-  @font-face{ 
+
+/*  @font-face{ 
     font-family:'FontAwesome';
     src:url({{public_path() . '/assets/fonts/FontAwesome.otf'}});
-    }
+    } */
     footer {
       border: 1px solid rgb(232,232,232);
       background-color: rgb(81,81,81);
