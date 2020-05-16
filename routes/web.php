@@ -22,3 +22,6 @@ Route::get('/apropos', function () {
 Route::get('/service', function () {
     return view('service');
 });
+Route::get('/contact', function () {
+    return view('contact');
+});
