@@ -63,7 +63,7 @@ $(function () {
 <hr />
 
 <div class="row">
-    <h1 style="text-align: center;font-weight: bold;margin-bottom: 40px;">CE QU'ILS ONT DIT DE NOTRE SERVICE</h1>
+    <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 40px;">CE QU'ILS ONT DIT DE NOTRE SERVICE</h1>
   <div class="col-sm-4">
     <div class="thumbnail">
       <!--<img class="img-circle" width="100" src="{{ secure_asset('img/ahmed.jpg') }}" alt="ahmed">-->
@@ -104,7 +104,7 @@ $(function () {
 <hr />
 
 <div class="row">
-    <h1 style="text-align: center;font-weight: bold;margin-bottom: 20px;">NOS CLIENTS</h1>
+    <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 20px;">NOS CLIENTS</h1>
     <aside class="col-sm-4" style="margin-top: 20px">
       <!--<center><img class="img-responsive img-thumbnail" src="{{ secure_asset('img/client-1.jpg') }}" width="250" height="250" alt="Maakoul" data-toggle="tooltip" data-placement="top" title="شركة الحاج المعقول"></center>-->
       <center><img class="img-responsive img-thumbnail" src="{{ asset('img/client-1.jpg') }}" width="250" height="250" alt="Maakoul" data-toggle="tooltip" data-placement="top" title="شركة الحاج المعقول"></center>
