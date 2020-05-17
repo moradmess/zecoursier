@@ -8,8 +8,8 @@ document.getElementById('propos').className = "active";
 	<!--<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ secure_asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">-->
 	<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">
 	<aside class="col-sm-6 col-sm-offset-3" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 25px">
-		<p><strong>ZeCOURSIER</strong> est une auto-entreprenariat, son rôle principal est <strong>le stockage et la livraison à domicile, ainsi vous pouvez suivre</strong> l'état de vos colis que ça soit une marchandise, produit, ..., etc.</p>
-	<p>Donc si vous  êtes un e-commercial ou commercial chargé des demandes sur internet de votre client <strong>à domicile</strong>, vous n'hésitez pas à choisir notre service. <strong>ZeCOURSIER</strong> est le bon choix pour vous, et nous aurons de la fierté de vous servir.</p>
+		<p><strong>ZeCOURSIER</strong> est une auto-entreprenariat, son rôle principal est <strong>le stockage</strong> et <strong>la livraison à domicile</strong>, ainsi vous pouvez <strong>suivre l'état de vos colis</strong> que ça soit une marchandise, produit, ..., etc.</p>
+	<p>Donc si vous  êtes un e-commercial ou commercial chargé des demandes sur internet de votre client à domicile, vous n'hésitez pas à choisir notre service. <strong>ZeCOURSIER</strong> est le bon choix pour vous, et nous aurons de la fierté de vous servir.</p>
 	</aside>
 </section>
 <h1 style="text-align: center;font-weight: bold;margin-bottom: 30px;margin-top: 30px">EQUIPE DE ZeCOURSIER</h1>
