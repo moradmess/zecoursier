@@ -5,7 +5,7 @@
 document.getElementById('contact').className = "active";
 </script>
 <!--<img class="img-rounded img-responsive" width="100%" src="{{ secure_asset('img/contactez_nous.jpg') }}" alt="contactez_nous">-->
-<img class="img-rounded img-responsive" src="{{ asset('img/nos_service.jpg') }}" alt="contactez_nous">
+<img class="img-rounded img-responsive" width="100%" src="{{ asset('img/contactez_nous.jpg') }}" alt="contactez_nous">
 <hr />
 <div class="row">
 	<aside class="col-sm-5">
@@ -17,7 +17,7 @@ document.getElementById('contact').className = "active";
                 </div>
                 <div id="item1" class="panel-collapse collapse">
                 <div class="panel-body"> 
-                	<p><span class="glyphicon glyphicon-home"></span> 3 rue Oslo boulevard Bayrouth Zohor 1 Fes Maroc</p>
+                	<p><span class="glyphicon glyphicon-home"></span> 3 rue Oslo boulevard Bayrouth Zohor 1 Fès Maroc</p>
                 	<p><span class="glyphicon glyphicon-earphone"></span> +212622-656117</p>
                 	<p><span class="fa fa-whatsapp"></span> +212688-163484</p>
                 	<p><span class="glyphicon glyphicon-envelope"></span> zecoursier@gmail.com</p>

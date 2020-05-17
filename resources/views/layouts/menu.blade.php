@@ -132,8 +132,8 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li id="accueil"><a href="{{ url('/') }}">ACCUEIL<span class="sr-only">(current)</span></a></li>
-        <li id="propos"><a href="{{ url('/apropos') }}">A PROPOS</a></li>
-        <li id="service"><a href="{{ url('/service') }}">NOS SERVICE</a></li>
+        <li id="propos"><a href="{{ url('/apropos') }}">À PROPOS</a></li>
+        <li id="service"><a href="{{ url('/service') }}">NOS SERVICES</a></li>
         <li id="contact"><a href="{{ url('/contact') }}">CONTACTEZ-NOUS</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -146,11 +146,10 @@
 <footer>
   <div id="footer-upper" class="row">
     <div class="col-md-4 col-sm-8" id="footer_description">
-    <p>
+    
     <!--<img style="opacity: 0.7;" src="{{ secure_asset('img/logo.jpg') }}" height="40" height="40" class="center-block">-->
-    <img style="opacity: 0.7;" src="{{ asset('img/logo.jpg') }}" height="40" height="40" class="center-block">
-    </p>
-    <p id="description" style="color: rgba(255,255,255,0.5);">Cher E-commerial, ZeCOURSIER est pour vous, un choix qui vous oeuvre la rapidité, la souplesse et l'honnêteté de vos demandes</p>
+    <img src="{{ asset('img/Fouter-Logo.png') }}" height="60" alt="logoZeCOURSIER" style="margin-bottom: 5px">
+    <p id="description" style="color: rgba(255,255,255,0.5);">Cher e-commerial, ZeCOURSIER est pour vous, un choix qui vous met en oeuvre une certaine rapidité, souplesse et honnêteté de vos demandes</p>
      <p id="footer_social_media" style="text-align: center;" class="col-xs-12">
     <a href="https://www.facebook.com/zecoursier.officiel/" onclick="window.open(this.href); return false;"><span class="fa fa-facebook"></span></a>
       <a href="https://www.youtube.com/channel/UCiqsOSIEBjQv9kSAI_NwN8Q" onclick="window.open(this.href); return false;"><span class="fa fa-youtube" style="margin-left: 2em"></span></a>
@@ -159,8 +158,8 @@
     <div class="col-md-2 col-sm-4" id="footer_lien">
     <p style="font-weight: bold;color: rgba(255,255,255,0.7);">LIENS</p>
     <p><a href="{{ url('/') }}">Accueil</a><br />
-    <a href="{{ url('/apropos') }}">A propos</a><br />
-    <a href="{{ url('/service') }}">Nos Service</a><br />
+    <a href="{{ url('/apropos') }}">À propos</a><br />
+    <a href="{{ url('/service') }}">Nos Services</a><br />
     <a href="{{ url('/contact') }}">Contactez-nous</a></p>
     </div>
     <div class="col-md-2 col-sm-4" id="footer_rejoigner">
@@ -169,7 +168,7 @@
     </div>
     <div class="col-md-4 col-sm-8" id="footer_info">
     <p style="font-weight:bold;color: rgba(255,255,255,0.7);">INFORMATION</p>
-    <p style="color: rgba(255,255,255,0.5);">3 rue Oslo boulevard Bayrouth Zohor 1 Fes<br />
+    <p style="color: rgba(255,255,255,0.5);">3 rue Oslo boulevard Bayrouth Zohor 1 Fès<br />
     ICE: 002335495000074<br />
     Tel: 0622-656117 / Whatsapp: 0688-163484<br />
     Email: zecoursier@gmail.com</p>
