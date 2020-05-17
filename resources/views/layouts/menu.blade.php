@@ -168,7 +168,7 @@
     <p style="font-weight:bold;color: rgba(255,255,255,0.7);">INFORMATION</p>
     <p style="color: rgba(255,255,255,0.5);">3 rue Oslo boulevard Bayrouth Zohor 1 Fes<br />
     ICE: 002335495000074<br />
-    Tel / Whatsapp: 0622-656117 / 0688-163484<br />
+    Tel: 0622-656117 / Whatsapp: 0688-163484<br />
     Email: zecoursier@gmail.com</p>
     </div>  
   </div>
