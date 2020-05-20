@@ -141,10 +141,9 @@
 </header>
 
 @yield('content') 
-</div>
 
 <hr />
-<footer class="container-fluid">
+<footer>
   <div id="footer-upper" class="row">
     <div class="col-md-4 col-sm-8" id="footer_description">
     
@@ -180,5 +179,6 @@
     <p>Tous droits réservés par ZeCOURSIER 2019</p>
   </div>
 </footer>
+</div>
 </body>
 </html>
