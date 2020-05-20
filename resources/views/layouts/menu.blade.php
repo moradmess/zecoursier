@@ -114,8 +114,8 @@
   </style>
 </head>
 <body>
-
-    <header class="container-fluid">
+<div class="container">
+    <header>
    <nav class="navbar navbar-default">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -140,7 +140,6 @@
 </nav>
 </header>
 
-<div class="container">
 @yield('content') 
 </div>
 
