@@ -114,8 +114,8 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <header>
+
+    <header class="container-fluid">
    <nav class="navbar navbar-default">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -140,10 +140,12 @@
 </nav>
 </header>
 
-@yield('content')
+<div class="container">
+@yield('content') 
+</div>
 
 <hr />
-<footer>
+<footer class="container-fluid">
   <div id="footer-upper" class="row">
     <div class="col-md-4 col-sm-8" id="footer_description">
     
@@ -179,6 +181,5 @@
     <p>Tous droits réservés par ZeCOURSIER 2019</p>
   </div>
 </footer>
-  </div>
 </body>
 </html>
